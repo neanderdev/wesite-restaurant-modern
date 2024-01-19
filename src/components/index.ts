@@ -1,4 +1,4 @@
-import { FooterOverlay } from "./Footer";
+import { FooterOverlay } from "./FooterOverlay";
 import { MenuItem } from "./Menuitem";
 import { Navbar } from "./Navbar";
 import { Newsletter } from "./Newsletter";
